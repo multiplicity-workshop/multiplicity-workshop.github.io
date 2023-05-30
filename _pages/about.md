@@ -16,7 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 
 ## Invited Speakers
-<br/>
 
 1. Cynthia Rudin (Duke): Rashomon Sets
 2. Berk Ustun (UCSD): Measuring Predictive Multiplicity in Practice
@@ -46,7 +45,7 @@ tive on Model Multiplicity
       <img src="assets/img/organizer-circles/charlie-circle.jpg" alt="" width="75%">
       <!--<div style="width:115%; text-align:left"><a href="https://charliemarx.github.io/">Charlie Marx</a></div>-->
       <div><a href="https://charliemarx.github.io/">Charlie Marx</a></div>
-      <div>Stanford University</div>
+      <div>Stanford</div>
     </div>
     &emsp;
 
