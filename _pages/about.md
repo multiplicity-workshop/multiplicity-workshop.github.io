@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 ## Invited Speakers
 
 
-<div class="flex-container" style="display:flex;">
+<div class="flex-container" style="display:flex;flex-wrap:wrap;">
 
     <div style="width:20%; text-align:center">
       <img src="assets/img/organizer-circles/cynthia-circle.jpg" alt="" width="75%">
@@ -55,9 +55,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
       <div>Microsoft Research</div>
     </div>
     &emsp;
-    
- </div>   
- <div class="flex-container" style="display:flex;">
     
             <div style="width:20%; text-align:center">
       <img src="assets/img/organizer-circles/weiwei-circle.jpg" alt="" width="75%">
