@@ -2,7 +2,7 @@ from PIL import Image, ImageDraw
 from pathlib import Path
 
 img_dir = Path("assets/img/organizer-circles/")
-filenames = ["charlie.jpg", "jamelle.jpg", "cooper.jpg"]
+filenames = ["charlie.jpg", "jamelle.jpg", "cooper.jpg", "flavio.jpg"]
 
 
 for fname in filenames:
