@@ -9,6 +9,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 <br/>
 
+BLAH BLAH BLAH
+
+<br/>
+
+
 This website aims to be a resource for researchers from academia and industry to
 understand major challenges, outline recent advances, and highlight promising future
 directions in the areas of real-world experimental design and active learning. We

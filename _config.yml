@@ -2,17 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Modern Experimental Design and Active Learning in the Real World # the website title
-#title: Active Machine Learning in the Real World # the website title
-#title: Real World Experimental Design and Active Learning # the website title
-titlesmall: Experimental Design and Active Learning in the Real World  # small title for header
-#titlesmall: "ReALML: Modern EXD and AL in the Real World" # small title for header
+title: Research Directions in Model Multiplicity # the website title
+titlesmall: Research Directions in Model Multiplicity  # small title for header
 email:
 logo: assets/img/logos/globe-logo.png # path to website logo (e.g. for the navigation bar)
-#logo: assets/img/logos/fibonacci-logo.png # path to website logo (e.g. for the navigation bar)
 watermark: assets/img/logos/globe-logo.png
-#watermark: assets/img/logos/pn-watermark.svg
-url: https://realworldml.github.io # the base hostname & protocol for your site
+url: https://multiplicity-workshop.github.io # the base hostname & protocol for your site
 baseurl:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for the research community on Experimental Design and Active Learning in the Real World
@@ -50,7 +45,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: realworldml
+github_username: multiplicity-workshop
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -75,7 +70,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Experimental Design and Active Learning in the Real World  # your blog must have a name for it to show up in the nav bar
+blog_name: Multiplicity Workshop [BLOG??]  # your blog must have a name for it to show up in the nav bar
 blog_description: Blog
 permalink: /blog/:year/:title/
 
