@@ -28,7 +28,7 @@ for fname in filenames:
 
     # draw a white solid circle
     draw = ImageDraw.Draw(img)
-    draw.ellipse((0, 0) + img.size, outline='white', width=10)
+    draw.ellipse((0, 0) + img.size, outline='black', width=20)
 
     # save to JPEG with reduced quality for smaller file size
-    img.convert("RGB").save(write_path, 'JPEG', quality=40)
+    img.convert("RGB").save(write_path, 'JPEG', quality=50)
