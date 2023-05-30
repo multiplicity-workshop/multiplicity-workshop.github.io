@@ -26,9 +26,9 @@ for fname in filenames:
     # composite
     img = Image.composite(img, white_img, mask)
 
-    # draw a white solid circle
-    draw = ImageDraw.Draw(img)
-    draw.ellipse((0, 0) + img.size, outline='black', width=20)
+    # # draw a white solid circle
+    # draw = ImageDraw.Draw(img)
+    # draw.ellipse((0, 0) + img.size, outline='black', width=20)
 
     # save to JPEG with reduced quality for smaller file size
     img.convert("RGB").save(write_path, 'JPEG', quality=50)
