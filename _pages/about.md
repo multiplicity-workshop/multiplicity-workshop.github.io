@@ -70,24 +70,10 @@ more.
 
 1. &nbsp;**January 12, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kelly W. Zhang](https://kellywzhang.github.io/)
     &emsp;&emsp;&emsp;&emsp;<img src="assets/img/speaker-circles/kelly.png" alt="" width="7%">
-2. &nbsp;**January 19, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/)
-    &emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/kevin_j.png" alt="" width="7%">
-3. &nbsp;**January 26, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Raul Astudillo](https://raulastudillo.netlify.app/)
-    &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/raul.png" alt="" width="7%">
-4. &nbsp;**February 2, 2023** &emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Emmanuel Bengio](https://folinoid.com/)
-    &emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/emmanuel.png" alt="" width="7%">
-5. &nbsp;**February 16, 2023** &emsp;&nbsp; [Aldo Pacchiano](https://www.aldopacchiano.ai/)
-    &emsp;&emsp;&emsp;&ensp;&nbsp;<img src="/assets/img/speaker-circles/aldo.png" alt="" width="7%">
-6. &nbsp;**February 23, 2023** &emsp;&nbsp; [Haitham Bou Ammar](http://bouammar.com/)
-    &emsp;&nbsp;<img src="assets/img/speaker-circles/haitham.png" alt="" width="7%">
-7. &nbsp;**March 2, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Kevin Tran](https://ktran9891.github.io/)
-    &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/kevin_t.png" alt="" width="7%">
-8. &nbsp;**March 9, 2023** &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; [Zi Wang](https://ziw.mit.edu/)
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;<img src="assets/img/speaker-circles/zi.png" alt="" width="7%">
-9. &nbsp;**March 16, 2023** &emsp;&emsp;&nbsp;&nbsp; [Viraj Mehta](https://virajm.com/)
-    &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<img src="assets/img/speaker-circles/viraj.png" alt="" width="7%">
-10. &nbsp;**March 23, 2023** &emsp;&emsp;&nbsp;&nbsp; [Johannes Kirschner](https://johannes-kirschner.de/)
-    &emsp;&ensp;&nbsp;<img src="assets/img/speaker-circles/johannes.png" alt="" width="7%">
+
+
+1. &nbsp;**January 12, 2023** &emsp;&nbsp;&nbsp;&nbsp; [Kelly W. Zhang](https://kellywzhang.github.io/)
+    &emsp;&emsp;&emsp;&emsp;<img src="assets/img/speaker-circles/kelly.png" alt="" width="7%">
 
 
 <br/>
@@ -98,24 +84,24 @@ Feel free to get in touch with us!
 <div class="flex-container" style="display:flex;">
 
     <div style="width:17%; text-align:center">
-      <img src="assets/img/organizer-circles/mojmir-circle.png" alt="" width="75%">
-      <div><a href="https://mojmirmutny.github.io/">Mojmir Mutny</a></div>
-      <div>ETH Zurich</div>
+      <img src="assets/img/organizer-circles/jamelle-circle.png" alt="" width="75%">
+      <div><a href="https://www.jamellewd.com/">Jamelle Watson-Daniels</a></div>
+      <div>Harvard</div>
     </div>
     &emsp;
 
     <div style="width:17%; text-align:center">
-      <img src="assets/img/organizer-circles/willie-circle.png" alt="" width="75%">
-      <!--<div style="width:115%; text-align:left"><a href="https://willieneis.github.io/">Willie Neiswanger</a></div>-->
-      <div><a href="https://willieneis.github.io/">Willie Neiswanger</a></div>
+      <img src="assets/img/organizer-circles/charlie-circle.png" alt="" width="75%">
+      <!--<div style="width:115%; text-align:left"><a href="https://charliemarx.github.io/">Charlie Marx</a></div>-->
+      <div><a href="https://charliemarx.github.io/">Charlie Marx</a></div>
       <div>Stanford University</div>
     </div>
     &emsp;
 
     <div style="width:17%; text-align:center">
-      <img src="assets/img/organizer-circles/ilija-circle.png" alt="" width="75%">
-      <div><a href="https://ilijabogunovic.com//">Ilija Bogunovic</a></div>
-      <div>University College London</div>
+      <img src="assets/img/organizer-circles/cooper-circle.png" alt="" width="75%">
+      <div><a href="https://afedercooper.info/">A. Feder Cooper</a></div>
+      <div>Cornell</div>
     </div>
     &emsp;
 
