@@ -93,14 +93,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 <div class="flex-container" style="display:flex;">
 
-    <div style="width:20%; text-align:center">
+    <div style="width:25%; text-align:center">
       <img src="assets/img/organizer-circles/jamelle-circle.jpg" alt="" width="75%">
       <div><a href="https://www.jamellewd.com/">Jamelle Watson-Daniels</a></div>
       <div>Harvard</div>
     </div>
     &emsp;
 
-    <div style="width:20%; text-align:center">
+    <div style="width:25%; text-align:center">
       <img src="assets/img/organizer-circles/charlie-circle.jpg" alt="" width="75%">
       <!--<div style="width:115%; text-align:left"><a href="https://charliemarx.github.io/">Charlie Marx</a></div>-->
       <div><a href="https://charliemarx.github.io/">Charlie Marx</a></div>
@@ -108,14 +108,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
     </div>
     &emsp;
 
-    <div style="width:20%; text-align:center">
+    <div style="width:25%; text-align:center">
       <img src="assets/img/organizer-circles/cooper-circle.jpg" alt="" width="75%">
       <div><a href="https://afedercooper.info/">A. Feder Cooper</a></div>
       <div>Cornell</div>
     </div>
     &emsp;
     
-    <div style="width:20%; text-align:center">
+    <div style="width:25%; text-align:center">
       <img src="assets/img/organizer-circles/flavio-circle.jpg" alt="" width="75%">
       <div><a href="https://people.seas.harvard.edu/~flavio/">Flavio Calmon</a></div>
       <div>Harvard</div>
