@@ -10,7 +10,7 @@ watermark: assets/img/logos/globe-logo.png
 url: https://multiplicity-workshop.github.io # the base hostname & protocol for your site
 baseurl:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for the research community on Experimental Design and Active Learning in the Real World
+  Website for the Workshop on Research Directions in Model Multiplicity
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 last_updated: false # set to true if you want to display last updated in the footer
