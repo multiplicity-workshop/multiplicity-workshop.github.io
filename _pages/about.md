@@ -10,8 +10,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 <br/>
 Average accuracy is the default criterion for selecting a machine learning model in classification tasks. 
 However, multiple competing models may achieve statistically-indistinguishable accuracy yet output different predictions for individual samples. 
-The *Rashomon effect*, introduced by distinguished statistician Leo Breiman, describes the phenomenon where many distinct machine learning models achieve similar performance on a given learning task.  
-In machine learning today, the set of almost-equally good models for a given learning problem is referred to as the Rashomon set.
+The *Rashomon effect*, introduced by distinguished statistician Leo Breiman, describes the phenomenon where many distinct machine learning models achieve similar performance on a given learning task. In machine learning today, the set of almost-equally good models for a given learning problem is referred to as the Rashomon set.
 
 Existing research in model multiplicity tends to respond to one of the following questions: 
 1.  Should the goal always be to select a single ``best'' (e.g., most accurate) model?
